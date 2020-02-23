@@ -1,0 +1,2 @@
+#请将其添加至nginx站点配置文件中.
+add_header TZG-Challenge hruwos;
